@@ -1,6 +1,6 @@
 # Termy
  Colourful Terminal Emulator For Linux
-![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+![cheese](https://github.com/ashutosh786palhare/Termy/blob/main/Ashutosh.png)
 <br>
 # What is Termy
 <p>Termy is a stylish and Advanced terminal emulator for linux user.</p>
