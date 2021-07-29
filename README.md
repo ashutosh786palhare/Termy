@@ -1,5 +1,6 @@
 # Termy
  Colourful Terminal Emulator For Linux
+ 
 ![cheese](https://github.com/ashutosh786palhare/Termy/blob/main/Ashutosh.png)
 <br>
 # What is Termy
